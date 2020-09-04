@@ -16,14 +16,19 @@ body {
     padding: 20px;
     width: 200px;
     height: 150px;
-    font-family:Helvetica, 
-    Arial, sans-serif;
-    font-size:46px;
-    font-style:bold; 
+   
     width:1000px;
     height:800px;
     border:25px solid rgb(101, 155, 103);
     background-color:rgb(101, 155, 103);
+  }
+
+  blockquote {
+    font-family: Bodoni MT, 
+    Arial, sans-serif;
+    color: #fdfd96;
+    font-size:60px;
+    font-style:bold; 
   }
 
   img {
@@ -32,10 +37,19 @@ padding: 20px;
   }
 
   p {
-    font-family:Helvectica, Arial, sans-serif; 
+    font-family: Helvectica, Arial, sans-serif; 
     font-size: 26px;
+    color: #ffb347;
   }
 
-  idk{
+  a {
+    color: orange;
 padding:20px;
+  }
+
+  p2 {
+    font-family: Harlow Solid Italic, bold;
+    font-size: 50px;
+    color: #ff6961;
+  
   }
